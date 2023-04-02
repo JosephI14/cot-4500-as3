@@ -1,1 +1,1 @@
-
+NumPy package is the only required package for this assignment. 
